@@ -1,0 +1,8 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: Never
+BraceWrapping:
+  AfterFunction: false
+  AfterControlStatement: false
+ColumnLimit: 80
+
