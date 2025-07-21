@@ -51,4 +51,5 @@ The following assertion macros are currently supported:
 Use this code freely according to the MIT licence
 
 ## Example Output
+<img width="521" height="806" alt="image" src="https://github.com/user-attachments/assets/77f0d7b0-b54c-4081-bf57-41ee30d96e90" />
 
