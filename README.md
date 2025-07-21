@@ -34,18 +34,18 @@ int main() {
 ## Compilation
 To use in another project simply compile them along your other files. 
 Define `-DTESTA_USE_COLOR` for colored output.
-Use provided `Makefile` to generate the example programs
+Use provided `Makefile` to generate the example programs.
 
 ## Assertions
 The following assertion macros are currently supported:
-- ASSERT_EQ_INT(expected, actual)
-- ASSERT_EQ_DOUBLE(expected, actual)
-- ASSERT_EQ_FLOAT(expected, actual)
-- ASSERT_EQ_STR(expected, actual)
-- ASSERT_EQ_CHAR(expected, actual)
-- ASSERT_EQ_PTR(expected, actual)
-- ASSERT_TRUE(boolean)
-- ASSERT_FALSE(boolean)
+- `ASSERT_EQ_INT(expected, actual)`
+- `ASSERT_EQ_DOUBLE(expected, actual)`
+- `ASSERT_EQ_FLOAT(expected, actual)`
+- `ASSERT_EQ_STR(expected, actual)`
+- `ASSERT_EQ_CHAR(expected, actual)`
+- `ASSERT_EQ_PTR(expected, actual)`
+- `ASSERT_TRUE(boolean)`
+- `ASSERT_FALSE(boolean)`
 
 ## License
 Use this code freely according to the MIT licence
